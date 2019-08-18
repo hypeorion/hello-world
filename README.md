@@ -1,3 +1,2 @@
 # hello-world
 
-Deneme yapıyoruz.
